@@ -61,7 +61,7 @@ This mutual respect for confidentiality builds the foundation for honest dialogu
 
 
 ## 5. Essential Mentoring Skills
-For both mentors and mentees:
+### For both mentors and mentees:
 ### Active Listening: 
 Pay close attention to what the other person is saying without interrupting. Use nonverbal cues, maintain eye contact, and show engagement. Reflect back what you hear to ensure understanding. You can read more about this [here](https://psychcentral.com/lib/become-a-better-listener-active-listening).
 
@@ -81,7 +81,8 @@ Ask thoughtful questions that encourage deep reflection and conversation. Exampl
 Mentees should be open to this process, ask for feedback regularly, and demonstrate appreciation for it.
 
 
-Cultural Humility: Recognize and respect individual differences in background, identity, and values. Stay open, curious, and nonjudgmental in your interactions. Avoid assumptions.
+### Cultural Humility: 
+Recognize and respect individual differences in background, identity, and values. Stay open, curious, and nonjudgmental in your interactions. Avoid assumptions.
 
 
 
