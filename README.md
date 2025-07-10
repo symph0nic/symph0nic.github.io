@@ -32,4 +32,5 @@ Closing date is July 20th at Midnight EST. Sign up now!!
 
 ## [FAQ](./FAQ.html)
 
+## Privacy:
 A note on privacy: in order to administer this program we will collect some basic info like names, email addresses, etc.. This won't be used in any way except to manage this mentoring process, and will be kept confidential, and not shared outside of the organizers of this program. 
