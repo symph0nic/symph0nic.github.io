@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+theme: jekyll-theme-minimal
+title: .edu Community Mentorship
+description: A site about the edu community mentorship program
