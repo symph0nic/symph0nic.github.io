@@ -84,8 +84,8 @@ Active Listening: Pay close attention to what the other person is saying without
 Open-Ended Questioning: Ask thoughtful questions that encourage deep reflection and conversation. Examples include: “What would success look like for you?” or “What’s holding you back?”
 
 
-Feedback Delivery and Reception:
-### Use the FAIR model:
+### Feedback Delivery and Reception:
+#### Use the FAIR model:
 
 
 Facts: Describe the behavior you observed.
@@ -118,7 +118,7 @@ Cultural Humility: Recognize and respect individual differences in background, i
 
 
 5–6 min: Review what was discussed, share feedback, and agree on next steps.
-###For a shorter check-in meeting, focus primarily on reviewing progress and on any specific challenges currently being faced.
+### For a shorter check-in meeting, focus primarily on reviewing progress and on any specific challenges currently being faced.
 
 
 ### Tips for Productive Meetings:
