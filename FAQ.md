@@ -1,4 +1,4 @@
-#Frequently Asked Questions:
+# Frequently Asked Questions:
 
 Q:  I've finished my education but not yet found a job. Can I apply?
   >A:  Absolutely! Just share what education you've completed and put a note in the 'any comments' field of the form.
