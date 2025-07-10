@@ -18,6 +18,7 @@ Time commitment: We would ideally like these to be long term mentoring relations
 - Be prepared to have roughly monthly calls between you both for the following 6 months
 - Be motivated (mentee) and willing to help (mentor)
 
+## Sign-up:
 Interested? Sign up via the following forms:
 - Mentors: [Click here](https://forms.gle/L9UnWrXcYpykv1rLA)
 - Mentees: [Click here](https://forms.gle/XtHtbt4UX1AVRoL79)
@@ -29,5 +30,6 @@ Thank you for your support of the future of cybersecurity!
 
 Closing date is July 20th at Midnight EST. Sign up now!!
 
+## [FAQ](./FAQ.html)
 
 A note on privacy: in order to administer this program we will collect some basic info like names, email addresses, etc.. This won't be used in any way except to manage this mentoring process, and will be kept confidential, and not shared outside of the organizers of this program. 
