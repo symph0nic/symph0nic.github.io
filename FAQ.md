@@ -11,6 +11,9 @@ Q:  Do I have to attend def con to get a Mentor / Mentee?
 
 Q:  I'm outside of the US. Can I still be a Mentor / Mentee?
   >A:  At the moment we're expecting most participants to be in the US, due to the physical meeting requirement at defcon. However, please sign up and if we have an appropriate regional match we'll do our best to pair you up.
+
+Q: I signed up but I haven't heard anything. What should I do?
+  >A: Everyone that signed up and _provided an email address_ will receive a matching and info email after the sign-up period closes. If you didn't provide an email address, we can't get in touch. 
   
 Q:  I've never Mentored or Menteed before - what do I do?		
   >A:  Have a look at our [handy guide](./guide.html), and feel free to ask a bunch of questions at the def con meetup.
