@@ -14,6 +14,9 @@ Q:  I'm outside of the US. Can I still be a Mentor / Mentee?
 
 Q: I signed up but I haven't heard anything. What should I do?
   >A: Everyone that signed up and _provided an email address_ will receive a matching and info email after the sign-up period closes. If you didn't provide an email address, we can't get in touch. 
+
+Q: I've been matched with a Mentor / Mentee that doesn't match what I asked for. What should I do?
+  >A: We have a limited pool of Mentors and Mentees and so sadly it's not possible for everyone to have a perfect match. However we believe that if you go in with an open mind you will gain something from this relationship. If it really doesn't work out then get in  touch and we'll see if we can help.
   
 Q:  I've never Mentored or Menteed before - what do I do?		
   >A:  Have a look at our [handy guide](./guide.html), and feel free to ask a bunch of questions at the def con meetup.
