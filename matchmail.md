@@ -16,6 +16,6 @@ Thank you for signing up for the inaugural .edu Community Mentoring Program at D
 
 4. Discord information
   - The .edu Community Discord is going to be the primary place for you to meet with your matches after DEF CON, along with asking fellow particpants for guidance and support, asking for help from the admin team etc..
-  - You can access the Discord via this invite link: https://discord.gg/Ct27StC7PE
+  - You can access the Discord via this invite link: 
   - Please use the same name as used in your enrolment survey as your server name so that we can verify you and assign the correct roles
 
