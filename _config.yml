@@ -6,7 +6,4 @@ relative_links:
 theme: jekyll-theme-minimal
 title: .edu Community Mentorship
 description: A site about the edu community mentorship program
-header_pages:
-  - README.md
-  - FAQ.md
-  - guide.md
+logo: ./assets/img/logo.jpeg
