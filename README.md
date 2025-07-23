@@ -1,3 +1,5 @@
+![logo](./assets/img/logo.jpeg)
+
 # .edu Community Mentoring Program at Defcon 33
 
 This year at def con we are building a new community space around education. Part of our mission is to help those in education support and defend their institutions, and help those in education choose their career path, so we are creating a new mentorship program.
