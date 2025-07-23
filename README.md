@@ -20,15 +20,15 @@ Time commitment: We would ideally like these to be long term mentoring relations
 
 ## Sign-up:
 Interested? Sign up via the following forms:
-- Mentors: [Click here](https://forms.gle/L9UnWrXcYpykv1rLA)
-- Mentees: [Click here](https://forms.gle/XtHtbt4UX1AVRoL79)
+- Mentors: (Now Closed)
+- Mentees: (Now Closed)
 
 We will then arrange matches and let you know the next steps. Please be aware that we will have limited slots available, so don't wait to submit your entry!
 
 ### Thank you for your support of the future of cybersecurity!
 
 
-## Closing date is July 20th at Midnight EST. Sign up now!!
+## Signups are now closed! Thank you for your submissions.
 
 ## [FAQ](./FAQ.html)
 

@@ -3,7 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-theme: minima
+theme: jekyll-theme-minimal
 title: .edu Community Mentorship
 description: A site about the edu community mentorship program
 header_pages:
